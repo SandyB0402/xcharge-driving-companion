@@ -13,7 +13,7 @@ In addition to its analytical component, the system incorporates a Generative AI
 **Block 1: Installation of Libraries**
 """
 
-!pip install pandas numpy openpyxl
+
 
 """**Block 2: Import Libraries**"""
 
