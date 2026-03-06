@@ -17,9 +17,9 @@ In addition to its analytical component, the system incorporates a Generative AI
 
 """**Block 2: Import Libraries**"""
 
+import streamlit as st
 import pandas as pd
 import numpy as np
-import math
 
 """**Block 3: Dataset upload**
 
