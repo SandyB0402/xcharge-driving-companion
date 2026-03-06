@@ -36,8 +36,6 @@ The following datasets were uploaded:
 
 """
 
-from google.colab import files
-uploaded = files.upload()
 
 """**Block 4: Dataset Loading**"""
 
