@@ -1,0 +1,10 @@
+﻿Location,Timestamp,Duration (h:mm),Distance (km),SoC (%),Eff (km/kWh),Remarks
+Marikina,04:08,-,0,100,,Departure
+Shell Mexico,05:37,1:29,88,76,7.05,Drive thru
+NCC Exit,06:06,0:29,111,69,6.32,Detour to Capas
+Camp O'Donnell,06:22,0:16,128,62,4.67,Arrival at Camp
+Camp O'Donnell,07:11,0:49,128,96,,Charging session
+NCC Exit,07:28,0:17,145,91,6.54,Back on route
+TPLEX Entry,07:49,0:21,172,82,5.77,SCTEX interchange
+Rosario,08:40,0:51,259,46,4.65,TPLEX stretch
+Camp John Hay,09:45,1:05,295,19,2.56,Kennon ascent

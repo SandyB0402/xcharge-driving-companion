@@ -1,0 +1,9 @@
+﻿Field,Value,Units,Notes,Source (label)
+Brand / Model,Weltmeister (WM Motor) W5,,Battery-electric compact SUV/crossover,
+Battery capacity,52,kWh,Commonly cited PH-market battery size,AutoDeal / CarGuide / Zigwheels
+Claimed range,400,km,Often cited as ~400 km (claimed/NEDC-like),AutoDeal / CarGuide / TopGear
+Motor power,160,kW,≈217 hp equivalent,AutoDeal / CarGuide
+Motor torque,315,Nm,,AutoDeal / CarGuide
+AC charging time,8.4,hours,0–100% (claimed),Zigwheels
+DC fast charging,30–80% in 30,minutes,Some sources cite 35–80% in ~35 minutes,Zigwheels / TopGear
+DC connector standard,GB/T,,PH articles note DC fast charging via GB/T,AutoDeal

@@ -1,0 +1,39 @@
+Charging Station Name,City,Province,Charger Type,ChargePoint Count,Rate (PHP/kWh)
+Aurelia Residences,Taguig,Metro Manila,AC,1,22.0
+Aurelia Residences,Taguig,Metro Manila,DC,1,31.0
+EVOxCharge - In.hub Station,Taguig,Metro Manila,AC,6,24.0
+EVOxCharge - In.hub Station,Taguig,Metro Manila,DC,4,28.0
+Reach,Pasay,Metro Manila,AC,1,26.0
+Reach,Pasay,Metro Manila,DC,1,26.0
+Escala - Tagaytay,Tagaytay,Cavite,AC,2,37.0
+GSC Corporate Tower,Taguig,Metro Manila,AC,2,30.0
+World Trade Center,Pasay,Metro Manila,AC,2,30.0
+Ford Alabang,Muntinlupa,Metro Manila,AC,2,28.5
+ADB HQ,Mandaluyong,Metro Manila,AC,15,25.26
+SM Lucena,Lucena,Quezon,AC,2,25.0
+SM Rosales,Rosales,Pangasinan,AC,2,25.0
+AIA Tower,Makati,Metro Manila,AC,2,20.0
+Six/NEO (Private),Taguig,Metro Manila,AC,1,20.0
+Sta. Elena Golf Club (Private),Santa Rosa,Laguna,AC,2,20.0
+Shang Residences at Wack Wack (Private),Mandaluyong,Metro Manila,AC,2,17.0
+Acuatico Beach Resort,San Juan,Batangas,AC,2,0.0
+AIA Philippines Cebu,Cebu,Cebu,AC,2,0.0
+Baguio Country Club,Baguio,Benguet,AC,2,0.0
+Ford Cebu,Cebu,Cebu,AC,2,0.0
+Four/NEO (Private),Taguig,Metro Manila,AC,2,0.0
+IIEE Main Office,Quezon,Metro Manila,AC,2,0.0
+Kai Farms,Silang,Cavite,AC,2,0.0
+MOA Square,Pasay,Metro Manila,AC,2,0.0
+Newport World Resorts - 2F,Pasay,Metro Manila,AC,2,0.0
+Newport World Resorts - 4F,Pasay,Metro Manila,AC,2,0.0
+NLEX Balintawak (Private),Caloocan,Metro Manila,DC,2,0.0
+NLEX ODB Compound (Private),Malolos,Bulacan,DC,2,0.0
+NTMA (Private),Calamba,Laguna,AC,2,0.0
+"NYK-Fil Maritime E-Training, Inc. (Private)",Calamba,Laguna,AC,2,0.0
+NYK-Fil Ship Management Inc. (Private),Manila,Metro Manila,AC,2,0.0
+Pacific Plaza Tower (Private),Taguig,Metro Manila,AC,2,0.0
+R Garage,San Fernando,La Union,AC,2,0.0
+SCTEX Dolores - TOCB Compound (Private),Tarlac,Tarlac,DC,2,0.0
+SM City Daet,Camarines Norte,Bicol,AC,2,0.0
+Tagaytay Highlands,Tagaytay,Cavite,AC,2,0.0
+Yusen Logistics Center - Laguna (Private),Biñan,Laguna,AC,1,0.0
